@@ -25,4 +25,4 @@ end
 
 
 print(addpontuacaoInf(200, "dave"))
-print(addpontuacaoInf(200, "michael"))
+print(addpontuacaoInf(100, "michael"))
